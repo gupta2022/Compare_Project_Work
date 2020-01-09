@@ -1,0 +1,552 @@
+learning refers
+ceiling mounted projector
+0
+-1
+multiple learning machines
+ceiling mounted projector
+0
+-1
+decision makers
+ceiling mounted projector
+0
+-1
+individual predictions
+ceiling mounted projector
+0
+-1
+overall accuracy
+ceiling mounted projector
+0
+-1
+individual committee menter
+ceiling mounted projector
+0
+-1
+numbers class labels posterior probabilities rankings clusterings etc
+ceiling mounted projector
+0
+-1
+esemble learning
+ceiling mounted projector
+0
+-1
+real world situations
+ceiling mounted projector
+0
+-1
+machine learning model
+ceiling mounted projector
+0
+-1
+essemble learning
+ceiling mounted projector
+0
+-1
+possible decision
+ceiling mounted projector
+0
+-1
+overall model selection
+ceiling mounted projector
+0
+-1
+classifier lobe
+ceiling mounted projector
+0
+-1
+cross valiation 2.
+ceiling mounted projector
+0
+-1
+ensemble learning
+ceiling mounted projector
+0
+-1
+direuse models 3.
+ceiling mounted projector
+0
+-1
+ouy 4.model selection
+ceiling mounted projector
+0
+-1
+final goat
+ceiling mounted projector
+0
+-1
+risk 5.study
+ceiling mounted projector
+0
+-1
+data sample data quantity
+ceiling mounted projector
+0
+-1
+train validity test
+ceiling mounted projector
+0
+-1
+separate subsets
+ceiling mounted projector
+0
+-1
+size use
+ceiling mounted projector
+0
+-1
+different bootstrap samples
+ceiling mounted projector
+0
+-1
+different classifiers
+ceiling mounted projector
+0
+-1
+bootstrap sample
+ceiling mounted projector
+0
+-1
+random sample
+ceiling mounted projector
+0
+-1
+decision boundary
+ceiling mounted projector
+0
+-1
+certain problems
+ceiling mounted projector
+0
+-1
+esemble learning
+ceiling mounted projector
+0
+-1
+classification system
+ceiling mounted projector
+0
+-1
+classifier learns
+ceiling mounted projector
+0
+-1
+simpler partitions data fusions
+ceiling mounted projector
+0
+-1
+suitable combinations
+ceiling mounted projector
+0
+-1
+different source
+ceiling mounted projector
+0
+-1
+complementary informations
+ceiling mounted projector
+0
+-1
+confidence estimations
+ceiling mounted projector
+0
+-1
+decison esemble
+ceiling mounted projector
+0
+-1
+high confidence
+ceiling mounted projector
+0
+-1
+different decisio esemble
+ceiling mounted projector
+0
+-1
+low confidence
+ceiling mounted projector
+0
+-1
+high cnfidence
+ceiling mounted projector
+0
+-1
+esemble decision
+ceiling mounted projector
+0
+-1
+bootstarp replicas 2. boostng
+ceiling mounted projector
+0
+-1
+creates replicas
+ceiling mounted projector
+0
+-1
+informative training data
+ceiling mounted projector
+0
+-1
+consecutive classifier
+ceiling mounted projector
+0
+-1
+iteration- 3weak classifiers 1. classifiers c1
+ceiling mounted projector
+0
+-1
+random subset 2. c2
+ceiling mounted projector
+0
+-1
+informative subset
+ceiling mounted projector
+0
+-1
+training data
+ceiling mounted projector
+0
+-1
+3. c3
+ceiling mounted projector
+0
+-1
+c2 disagree
+ceiling mounted projector
+0
+-1
+binary class problems ada boost
+ceiling mounted projector
+0
+-1
+subset database
+ceiling mounted projector
+0
+-1
+sample distributions
+ceiling mounted projector
+0
+-1
+classifiers training errors random forests
+ceiling mounted projector
+0
+-1
+decision trees
+ceiling mounted projector
+0
+-1
+random variables
+ceiling mounted projector
+0
+-1
+multicates classification
+ceiling mounted projector
+0
+-1
+decorate
+ceiling mounted projector
+0
+-1
+diverse ensemble creation
+ceiling mounted projector
+0
+-1
+artificial training examples
+ceiling mounted projector
+0
+-1
+artificial examples
+ceiling mounted projector
+0
+-1
+diverse ensembles
+ceiling mounted projector
+0
+-1
+combining
+ceiling mounted projector
+0
+-1
+ensemble members 1. majority
+ceiling mounted projector
+0
+-1
+3. borda
+ceiling mounted projector
+0
+-1
+learning refers
+ceiling mounted projector
+0
+-1
+multiple learning machines
+ceiling mounted projector
+0
+-1
+decision makers
+ceiling mounted projector
+0
+-1
+individual predictions
+ceiling mounted projector
+0
+-1
+overall accuracy
+ceiling mounted projector
+0
+-1
+individual committee menter
+ceiling mounted projector
+0
+-1
+numbers class labels posterior probabilities rankings clusterings etc
+ceiling mounted projector
+0
+-1
+esemble learning
+ceiling mounted projector
+0
+-1
+real world situations
+ceiling mounted projector
+0
+-1
+machine learning model
+ceiling mounted projector
+0
+-1
+essemble learning
+ceiling mounted projector
+0
+-1
+possible decision
+ceiling mounted projector
+0
+-1
+overall model selection
+ceiling mounted projector
+0
+-1
+classifier lobe
+ceiling mounted projector
+0
+-1
+cross valiation 2.
+ceiling mounted projector
+0
+-1
+ensemble learning
+ceiling mounted projector
+0
+-1
+direuse models 3.
+ceiling mounted projector
+0
+-1
+ouy 4.model selection
+ceiling mounted projector
+0
+-1
+final goat
+ceiling mounted projector
+0
+-1
+risk 5.study
+ceiling mounted projector
+0
+-1
+data sample data quantity
+ceiling mounted projector
+0
+-1
+train validity test
+ceiling mounted projector
+0
+-1
+separate subsets
+ceiling mounted projector
+0
+-1
+size use
+ceiling mounted projector
+0
+-1
+different bootstrap samples
+ceiling mounted projector
+0
+-1
+different classifiers
+ceiling mounted projector
+0
+-1
+bootstrap sample
+ceiling mounted projector
+0
+-1
+random sample
+ceiling mounted projector
+0
+-1
+decision boundary
+ceiling mounted projector
+0
+-1
+certain problems
+ceiling mounted projector
+0
+-1
+esemble learning
+ceiling mounted projector
+0
+-1
+classification system
+ceiling mounted projector
+0
+-1
+classifier learns
+ceiling mounted projector
+0
+-1
+simpler partitions data fusions
+ceiling mounted projector
+0
+-1
+suitable combinations
+ceiling mounted projector
+0
+-1
+different source
+ceiling mounted projector
+0
+-1
+complementary informations
+ceiling mounted projector
+0
+-1
+confidence estimations
+ceiling mounted projector
+0
+-1
+decison esemble
+ceiling mounted projector
+0
+-1
+high confidence
+ceiling mounted projector
+0
+-1
+different decisio esemble
+ceiling mounted projector
+0
+-1
+low confidence
+ceiling mounted projector
+0
+-1
+high cnfidence
+ceiling mounted projector
+0
+-1
+esemble decision
+ceiling mounted projector
+0
+-1
+bootstarp replicas 2. boostng
+ceiling mounted projector
+0
+-1
+creates replicas
+ceiling mounted projector
+0
+-1
+informative training data
+ceiling mounted projector
+0
+-1
+consecutive classifier
+ceiling mounted projector
+0
+-1
+iteration- 3weak classifiers 1. classifiers c1
+ceiling mounted projector
+0
+-1
+random subset 2. c2
+ceiling mounted projector
+0
+-1
+informative subset
+ceiling mounted projector
+0
+-1
+training data
+ceiling mounted projector
+0
+-1
+3. c3
+ceiling mounted projector
+0
+-1
+c2 disagree
+ceiling mounted projector
+0
+-1
+binary class problems ada boost
+ceiling mounted projector
+0
+-1
+subset database
+ceiling mounted projector
+0
+-1
+sample distributions
+ceiling mounted projector
+0
+-1
+classifiers training errors random forests
+ceiling mounted projector
+0
+-1
+decision trees
+ceiling mounted projector
+0
+-1
+random variables
+ceiling mounted projector
+0
+-1
+multicates classification
+ceiling mounted projector
+0
+-1
+decorate
+ceiling mounted projector
+0
+-1
+diverse ensemble creation
+ceiling mounted projector
+0
+-1
+artificial training examples
+ceiling mounted projector
+0
+-1
+artificial examples
+ceiling mounted projector
+0
+-1
+diverse ensembles
+ceiling mounted projector
+0
+-1
+combining
+ceiling mounted projector
+0
+-1
+ensemble members 1. majority
+ceiling mounted projector
+0
+-1
+3. borda
+ceiling mounted projector
+0
+-1
