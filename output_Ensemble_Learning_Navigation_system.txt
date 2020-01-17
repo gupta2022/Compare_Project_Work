@@ -1,0 +1,228 @@
+individual predictions
+Automotive Navigation System
+0
+-1
+overall accuracy
+Automotive Navigation System
+0
+-1
+individual committee menter
+Automotive Navigation System
+0
+-1
+numbers class labels posterior probabilities rankings clusterings etc
+Automotive Navigation System
+0
+-1
+esemble learning
+Automotive Navigation System
+0
+-1
+real world situations
+Automotive Navigation System
+0
+-1
+machine learning model
+Automotive Navigation System
+0
+-1
+essemble learning
+Automotive Navigation System
+0
+-1
+possible decision
+Automotive Navigation System
+0
+-1
+overall model selection
+Automotive Navigation System
+0
+-1
+classifier lobe
+Automotive Navigation System
+0
+-1
+cross valiation 2.
+Automotive Navigation System
+0
+-1
+ensemble learning
+Automotive Navigation System
+0
+-1
+direuse models 3.
+Automotive Navigation System
+0
+-1
+ouy 4.model selection
+Automotive Navigation System
+0
+-1
+final goat
+Automotive Navigation System
+0
+-1
+risk 5.study
+Automotive Navigation System
+0
+-1
+data sample data quantity
+Automotive Navigation System
+0
+-1
+train validity test
+Automotive Navigation System
+0
+-1
+separate subsets
+Automotive Navigation System
+0
+-1
+size use
+Automotive Navigation System
+0
+-1
+different bootstrap samples
+Automotive Navigation System
+0
+-1
+different classifiers
+Automotive Navigation System
+0
+-1
+bootstrap sample
+Automotive Navigation System
+0
+-1
+random sample
+Automotive Navigation System
+0
+-1
+decision boundary
+Automotive Navigation System
+0
+-1
+certain problems
+Automotive Navigation System
+0
+-1
+esemble learning
+Automotive Navigation System
+0
+-1
+classification system
+Automotive Navigation System
+0
+-1
+classifier learns
+Automotive Navigation System
+0
+-1
+simpler partitions data fusions
+Automotive Navigation System
+0
+-1
+suitable combinations
+Automotive Navigation System
+0
+-1
+different source
+Automotive Navigation System
+0
+-1
+creates replicas
+Automotive Navigation System
+0
+-1
+informative training data
+Automotive Navigation System
+0
+-1
+consecutive classifier
+Automotive Navigation System
+0
+-1
+iteration- 3weak classifiers 1. classifiers c1
+Automotive Navigation System
+0
+-1
+random subset 2. c2
+Automotive Navigation System
+0
+-1
+informative subset
+Automotive Navigation System
+0
+-1
+training data
+Automotive Navigation System
+0
+-1
+3. c3
+Automotive Navigation System
+0
+-1
+c2 disagree
+Automotive Navigation System
+0
+-1
+binary class problems ada boost
+Automotive Navigation System
+0
+-1
+subset database
+Automotive Navigation System
+0
+-1
+sample distributions
+Automotive Navigation System
+0
+-1
+classifiers training errors random forests
+Automotive Navigation System
+0
+-1
+decision trees
+Automotive Navigation System
+0
+-1
+random variables
+Automotive Navigation System
+0
+-1
+multicates classification
+Automotive Navigation System
+0
+-1
+decorate
+Automotive Navigation System
+0
+-1
+diverse ensemble creation
+Automotive Navigation System
+0
+-1
+artificial training examples
+Automotive Navigation System
+0
+-1
+artificial examples
+Automotive Navigation System
+0
+-1
+diverse ensembles
+Automotive Navigation System
+0
+-1
+combining
+Automotive Navigation System
+0
+-1
+ensemble members 1. majority
+Automotive Navigation System
+0
+-1
+3. borda
+Automotive Navigation System
+0
+-1

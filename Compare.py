@@ -42,7 +42,7 @@ def add_to_file(graph,name):
     fout.write("-2\n")
 
 def output_file(query,gname,path):
-    fout = open("outputk1_Ultrasound.txt","a")
+    fout = open("output_Ensemble_Learning_Navigation_system.txt","a")
     fout.write(query)
     fout.write("\n")
     fout.write(gname)
@@ -75,10 +75,10 @@ def read_from_file(graph,name):
 
 graph = defaultdict(list)
 
-xl=["problem domain","app implementation","spiral model","defence aeronautics","customer requirements analysis","requirement need","customers stakeholders","party i","requirement requirements document","informal sri","red software requirement specification requirements specification document output","software operational","functional data","software interface","system elements","soft core design sex","information function","data architecture interface","component level designs","cam scanner","rabid action development model","major constraint","detail agile software development","dean documentation","customer interaction","daily basis","techniques scrum","detail ftp","small scale software check gucci","cam scanner","library waterfall","bugs bug identification","big business spiral model planning risk analysis customer communication engineering project","point customer evaluation construction","evolutionary iterative","systematic dover linear","release sequential mode risk analysis","cam scanner risk feat","poses threat","successful completion","software cost time govt policies requirements","large projects","suck analysis predictability","future technology","prot tin","incremental model","interface linear","word processing","basic wood processing functions","complete set","cost time","combination advantages dis adv case documentation customer feedback i","requirements improvement","modules i need","available users","advance bugs","teams partial dak","cam scanner","model class","rise customer test devices","large complex projects","partial requirements","customers advice time","developer customer","system analyst","nascent iterations co prom","minor fixes","land sic","customer quality","tit dos","cam scanner"
+xl=["ensemble","learning refers","multiple learning machines","decision makers","individual predictions","overall accuracy","individual committee menter","numbers class labels posterior probabilities rankings clusterings etc","esemble learning","real world situations","machine learning model","essemble learning","possible decision","overall model selection","classifier lobe","cross valiation 2.","ensemble learning","direuse models 3.","ouy 4.model selection","final goat","risk 5.study","data sample data quantity","train validity test","separate subsets","size use","different bootstrap samples","different classifiers","bootstrap sample","random sample","decision boundary","certain problems","esemble learning","classification system","classifier learns","simpler partitions data fusions","suitable combinations","different source","data fusion data/informations fusion","complementary informations","confidence estimations","decison esemble","high confidence","different decisio esemble","low confidence","high cnfidence","esemble decision","high esemble learning algorithms 1. bagging/bootstrap","bootstarp replicas 2. boostng","creates replicas","informative training data","consecutive classifier","iteration- 3weak classifiers 1. classifiers c1","random subset 2. c2","informative subset","training data","3. c3","c2 disagree","binary class problems ada boost","subset database","sample distributions","classifiers training errors random forests","decision trees","random variables","multicates classification","train /predict","decorate","diverse ensemble creation","artificial training examples","artificial examples","diverse ensembles","combining","ensemble members 1. majority","3. borda"
 ]
 
-distance_from="ultrasound machine"
+distance_from="Automotive Navigation System"
 read_from_file(graph,distance_from)
 ans=[]
 for query in xl :
